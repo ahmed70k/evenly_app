@@ -1,0 +1,21 @@
+{
+"language" : "Language",
+"dark" : "Dark",
+"english" : "English",
+"arabic" : "Arabic",
+"theme" : "Theme",
+"light" :"Light",
+"logout" : "Logout",
+"home" : "Home",
+"map" :"Map",
+"love" :"Love",
+"profile":"Profile",
+"search_for_event":"Search for Event",
+"all" : "All",
+"sport" : "Sport",
+"birthday" : "Birthday"
+
+
+
+
+}
